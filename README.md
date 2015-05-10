@@ -4,6 +4,7 @@ TypoTanks is a typing game in which tanks approach your fort. Each tank correspo
 ## Links
 
 Play the game here: http://ss13.eu/1hgj
+
 Making-of video: https://www.youtube.com/watch?v=SA7Zn_aj9Xg
 
 ![Game screenshot](http://ss13.eu/dump/laptop/2015-05-10/2015-05-10_15-24-58.png)
